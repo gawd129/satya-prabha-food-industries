@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gawd129.github.io/satya-prabha-food-industries/sitemap.xml
