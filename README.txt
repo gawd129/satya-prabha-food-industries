@@ -1,0 +1,1 @@
+Replace 91XXXXXXXXXX, phone and email in index.html, then upload index.html and the assets folder to your hosting.
